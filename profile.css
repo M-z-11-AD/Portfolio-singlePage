@@ -42,6 +42,7 @@ h2:after {
   margin: 0.8rem auto 0;
 }
 
+
 /* Navigation Bar */
 .nav-content {
   width: 100%;
@@ -99,6 +100,8 @@ h2:after {
   font-size: 0;
 }
 
+
+
 /* Navigation Hover Effects */
 .nav-links li:hover {
   padding: 0;
@@ -119,6 +122,8 @@ h2:after {
 .nav-bar:hover > * {
   box-shadow: none;
 }
+
+
 
 /* Header Section */
 .header-section {
@@ -175,6 +180,9 @@ h2:after {
 .fa-github {
   color: rgb(255, 255, 255);
 }
+
+
+
 /* animation */
 .letter-animation span {
   animation: colorChange 2s infinite;
@@ -232,6 +240,8 @@ h2:after {
   animation-delay: 0.12s;
 }
 
+
+
 /* ---projects-----*/
 .my-project {
   margin-top: 8rem;
@@ -274,7 +284,6 @@ h2:after {
 }
 
 .card-category {
-  /* margin-right: 2rem; */
   font-size: 18px;
   color: rgb(0, 191, 255);
 }
@@ -292,6 +301,8 @@ h2:after {
 .card-link .fa-github {
   font-size: 1.4rem;
 }
+
+
 
 /* -----Education---- */
 .education {
@@ -334,7 +345,6 @@ h2:after {
 }
 
 .education-list li:hover {
-  /* transform: scale(0.9); */
   transition: transform 0.8s ease-in-out;
 }
 
@@ -352,7 +362,9 @@ h2:after {
   margin: auto;
 }
 
-/* ----------Fähigkeiten Section----------- */
+
+
+/* ----------skills Section----------- */
 .skills {
   width: 100%;
 }
@@ -601,6 +613,8 @@ h2:after {
   }
 }
 
+
+
 /* --------Kontakte section----- */
 .contact {
   margin-top: 6rem;
@@ -687,6 +701,8 @@ form .btn2:hover {
   transition: all 0.5s ease-in-out;
 }
 
+
+
 /* ----footer---- */
 
 footer {
@@ -695,6 +711,7 @@ footer {
   background: #262626;
   margin-top: 20px;
 }
+
 
 
 /* Media Queries */
